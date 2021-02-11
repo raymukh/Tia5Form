@@ -1,0 +1,36 @@
+form.form-example {
+    display: table;
+}
+
+div.form-example {
+    display: table-row;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+}
+
+.form {
+    width:40%;
+    height:90%;
+    background:#ffffff !important;
+    overflow: hidden;
+    padding-top: 10px;
+    border-radius: 25px;
+}
+body {
+    background-color: #f98365;
+    padding-top: 10px;
+    font-family: 'Pangolin', cursive;
+    
+}
+.title {
+    padding-top: 0px !important;
+ width: 765px; 
+ height: 150px;
+}
